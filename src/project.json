@@ -1,0 +1,7 @@
+{
+  "id": "HS-MERCHANT",
+  "name": "汇盛支付商户端",
+  "title": "汇盛支付商户端整合 Demo",
+  "source": "src/demo.html",
+  "minimumBytes": 600000
+}
